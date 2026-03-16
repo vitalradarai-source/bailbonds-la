@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bailbonds-la.com/sitemap.xml
